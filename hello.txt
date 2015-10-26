@@ -2,4 +2,4 @@ hello world ,i am ..... very excited!
 
 i am not very well ...
 
-test stage Noone.txt zhi hou，zengjia feature 004
+test stage Noone.txt zhi hou，zengjia feature 004,zengjia feature006
